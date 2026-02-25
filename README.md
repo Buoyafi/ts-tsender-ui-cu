@@ -13,4 +13,4 @@
 4. e2e testing
   1. When we connect, we see the form
   2. When disconnected, we don't
-5. Deploy to fleek
+5. Deploy to vercel/flask instead of fleek (fleek needs access)
