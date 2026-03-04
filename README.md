@@ -15,3 +15,4 @@
   2. When disconnected, we don't
 5. Deploy to vercel/flask instead of fleek (fleek needs access)
 6. Decided to make the frontend a bit sleek.
+7. Will add new ones here.
